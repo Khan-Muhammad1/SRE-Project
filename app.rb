@@ -36,6 +36,6 @@ get '/crash' do
 end 
 
 get '/test' do
-  puts "Hello CI/CD Worked!"
+  puts "Hello CI/CD Worked!!"
 end 
 

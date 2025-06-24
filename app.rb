@@ -35,7 +35,3 @@ get '/crash' do
   exit!
 end 
 
-get '/test' do
-  puts "Hello CI/CD Worked!!!"
-end 
-

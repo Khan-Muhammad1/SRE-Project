@@ -33,7 +33,7 @@ ul{
 
 .delete-btn {
   background-color: #e74c3c;
-  color: white;
+  color: red;
   border: none;
   padding: 6px 14px;
   border-radius: 20px;

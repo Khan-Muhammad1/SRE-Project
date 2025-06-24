@@ -32,4 +32,4 @@ This project is a **Shopping List Web App** built with **Ruby + Sinatra**, desig
 - **Google Cloud Build (CI/CD)**
 - **GitHub**
 
---
+---

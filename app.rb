@@ -34,3 +34,8 @@ get '/crash' do
   puts "Crash app"
   exit!
 end 
+
+get '/test' do
+  puts "Hello CI/CD Worked"
+end 
+

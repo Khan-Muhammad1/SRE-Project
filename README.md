@@ -1,4 +1,4 @@
-# ✅ Sinatra To-Do App with Monitoring & Auto-Healing
+# ✅ Sinatra Shopping List Web App with Monitoring & Auto-Healing
 
 This project is a **Shopping List Web App** built with **Ruby + Sinatra**, designed to demonstrate **Site Reliability Engineering (SRE)** best practices:
 

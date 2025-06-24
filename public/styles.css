@@ -1,0 +1,48 @@
+html, body{
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+}
+
+
+body {
+
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+
+
+    background-image: url('/background-ezgif.com-webp-to-jpg-converter.jpg');
+    background-size: cover;
+    background-position: center -10px;
+    
+
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+
+
+.delete-btn {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+  text-decoration: none; /* if it's an <a> tag */
+}
+
+.delete-btn:hover {
+  background-color: #c0392b;
+}

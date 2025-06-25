@@ -1,5 +1,7 @@
 # ✅ Sinatra Shopping List Web App with Monitoring & Auto-Healing
 
+Website URL: https://web-app-1027860734921.northamerica-northeast2.run.app/
+
 This project is a **Shopping List Web App** built with **Ruby + Sinatra**, designed to demonstrate **Site Reliability Engineering (SRE)** best practices:
 
 - 🌐 Deployed to **Google Cloud Run**

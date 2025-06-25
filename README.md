@@ -18,7 +18,7 @@ This project is a **Shopping List Web App** built with **Ruby + Sinatra**, desig
 - ⚙️ Simulates failures using a `/crash` endpoint
 - 📈 Integrated with **Cloud Monitoring** and **Cloud Logging**
 - 📬 Sends **email alerts** when crashes occur
-- 🔁 Verifies **auto-restart** behavior on crash
+- 🔁 **Auto Heals** and runs contanier again when app crashes
 - 🔂 **CI/CD** setup with automatic deployment on GitHub push
 
 ---
